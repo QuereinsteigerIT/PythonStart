@@ -29,25 +29,25 @@ dict = {"name": "Karl", "alter": 26}
 
 #Opperatroren 
 
-plus = "+"
+# plus = "+"
 print(5+2)
-minus = "-"
+# minus = "-"
 print(5-2)
-multiplikation = "*"
+# multiplikation = "*"
 print(5*2)
-exponentiation = "**" #5**3=125
+# exponentiation = "**" #5**3=125
 print(5**3)
-division = "/"
+# division = "/"
 print(6/3)
-ganzzahligeDivision = "//" # 5//2 = 2
+# ganzzahligeDivision = "//" # 5//2 = 2
 print(5//2)
-groesserals = ">"
+# groesserals = ">"
 print(5>2)
-kleinerals = "<"
+# kleinerals = "<"
 print(5<2)
-modulus = "%"# 5/2 = 1
+# modulus = "%"# 5/2 = 1
 print(5%2)
-istgleich = "==" # 1 == 1 True, "Hallo" == "hallo"
+# istgleich = "==" # 1 == 1 True, "Hallo" == "hallo"
 print(1==1)
-ungleich = "!=" # 1 =! 0 True
+# ungleich = "!=" # 1 =! 0 True
 print(1!=1)
