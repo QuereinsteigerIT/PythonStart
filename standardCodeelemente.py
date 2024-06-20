@@ -80,3 +80,11 @@
 #     print("Es ist Abend.")
 # else:
 #     print("Es ist Nacht.")
+
+
+count = 1
+
+while count <= 5:
+
+    print(count)
+    count += 1
